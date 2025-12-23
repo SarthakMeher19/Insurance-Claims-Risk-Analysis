@@ -16,15 +16,15 @@ This repository hosts a comprehensive **Power BI Dashboard** designed to analyze
 The analysis highlights several critical trends in the policyholder base:
 
 * **High-Level Metrics**:
-    * [cite_start]**Total Claims**: 4,972 [cite: 4]
-    * [cite_start]**Total Claims Adjustment Cost**: $368K [cite: 2]
-    * [cite_start]**Average Claims Frequency**: 0.50 [cite: 1]
-    * [cite_start]**Average Claim Amount**: $73.97 [cite: 8]
+    * **Total Claims**: 4,972
+    * **Total Claims Adjustment Cost**: $368K
+    * **Average Claims Frequency**: 0.50
+    * **Average Claim Amount**: $73.97
 
 * **Risk & Demographics**:
-    * [cite_start]**Geographic Split**: The majority of policyholders reside in **Urban** areas (49.21%), followed by **Suburban** (30.23%) and **Rural** (20.56%) regions[cite: 17, 27, 31].
-    * [cite_start]**Claims Severity**: The dataset shows a favorable risk profile, with the vast majority of claims categorized as **"Low" severity** (7.0K records), significantly outweighing "Medium" (2.0K) and "High" (1.0K) severity claims[cite: 12, 23, 25].
-    * [cite_start]**Policy Types**: The analysis covers both **Full Coverage** and **Liability-Only** policy types[cite: 10].
+    * **Geographic Split**: The majority of policyholders reside in **Urban** areas (49.21%), followed by **Suburban** (30.23%) and **Rural** (20.56%) regions.
+    * **Claims Severity**: The dataset shows a favorable risk profile, with the vast majority of claims categorized as **"Low" severity** (7.0K records), significantly outweighing "Medium" (2.0K) and "High" (1.0K) severity claims.
+    * **Policy Types**: The analysis covers both **Full Coverage** and **Liability-Only** policy types.
 
 ## 🗂️ Dataset Description
 The dashboard is built on the `synthetic_insurance_data.csv` file, which contains **10,000 records** with the following key attributes:
@@ -46,7 +46,7 @@ The dashboard is built on the `synthetic_insurance_data.csv` file, which contain
     * Open `Insurance Claims & Policyholder Risk Analysis Dashboard.pbix`.
 3.  **Interact**:
     * Use filters for **Marital Status** or **Region** to dynamically update the visuals.
-    * [cite_start]Analyze the scatter plot to see the correlation between *Claims Frequency* and *Premium Amount*[cite: 14].
+    * Analyze the scatter plot to see the correlation between *Claims Frequency* and *Premium Amount*.
 
 ## 🛠️ Tools Used
 * **Microsoft Power BI**: Dashboard creation, DAX measures, and data modeling.
